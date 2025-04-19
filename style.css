@@ -1,0 +1,90 @@
+/* Style global */
+body {
+    background-color: #f8f5e1;
+    color: #333;
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+  }
+  
+  h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    color: #8B0000;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #8B0000;
+  }
+  
+  a:hover {
+    color: #FFD700;
+  }
+  
+  /* En-tête */
+  header {
+    background-color: #8B0000;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  header nav a {
+    margin: 0 15px;
+    color: white;
+    font-size: 18px;
+  }
+  
+  header nav a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Section Hero */
+  .hero {
+    background-color: #FFD700;
+    color: #333;
+    padding: 40px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+  }
+  
+  /* Menu */
+  #menu {
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .menu-item {
+    margin-bottom: 20px;
+  }
+  
+  .menu-item h3 {
+    color: #8B0000;
+  }
+  
+  /* Footer */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  footer .social-links a {
+    margin: 0 10px;
+    color: white;
+  }
+  
+  footer .social-links a:hover {
+    color: #FFD700;
+  }
+  
